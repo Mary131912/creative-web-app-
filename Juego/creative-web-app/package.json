@@ -1,0 +1,25 @@
+{
+  "name": "creative-web-app",
+  "version": "1.0.0",
+  "description": "A creative web application featuring a login system and a simple game.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "web",
+    "game",
+    "login",
+    "creative"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
